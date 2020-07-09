@@ -1,1 +1,1 @@
-WinRAR01 DrachenfeuerHD
+WinRAR01 DrachenfeuerHD CronixZero
