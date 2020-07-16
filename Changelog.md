@@ -1,1 +1,1 @@
-Bugs entfernt & Commands geaddet ChangeLog MuteChat etc
+Bugs entfernt & Commands geaddet ChangeLog MuteChat etc!
