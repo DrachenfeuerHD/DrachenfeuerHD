@@ -1,2 +1,1 @@
-Test Test2
-Test3
+Bugs entfernt & Commands geaddet ChangeLog MuteChat etc
