@@ -1,2 +1,2 @@
-Neue Commands: Changelog, Discord, Trashchat, Status, Freeze
-Bugfixes: Kleine Schreibfehler
+Neue Commands: -
+Bugfixes: Auto Updater bzw. Unentfernbarkeit gefixt :)
