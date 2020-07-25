@@ -1,2 +1,2 @@
-Neue Commands: -
-Bugfixes: Auto Updater bzw. Unentfernbarkeit gefixt :)
+Neue Commands: Guicrash, Guitrap, Copyspam, Copy, Blockstop, Serverlistcrash
+Bugfixes: Schreibfehler / andere kleinere Bugs
