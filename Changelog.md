@@ -1,2 +1,2 @@
-Neue Commands: Guicrash, Guitrap, Copyspam, Copy, Blockstop, Serverlistcrash
-Bugfixes: Schreibfehler / andere kleinere Bugs
+Neue Commands: Hackbook, Sudo, Banall
+Bugfixes: Nachrichten beim Login / Logout geändert und alte Commands überarbeitet
