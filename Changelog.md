@@ -1,2 +1,2 @@
-Neue Commands: -
-Bugfixes: Sudo entfernt und andere Nachrichten gefixxt
+Neue Commands: Blackscreen, Jumpscare, Lag, Forcekick
+Bugfixes: Nachrichten & kleinere Bugs gefixxt
