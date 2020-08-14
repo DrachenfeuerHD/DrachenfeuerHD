@@ -1,3 +1,2 @@
-Neue Commands: Lavawalk, Achievementspam, Dauerop, Fakecheater, Fakehack, Spin, Fakeflag
+Neue Commands: Fly, Heal, Feed, Antiad, KillAura
 Bugfixes: Nachrichten & kleinere Bugs gefixxt
-Bigchange: AntiCrash geaddet & Plugin umbenannt
